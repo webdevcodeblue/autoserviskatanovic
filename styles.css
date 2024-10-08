@@ -819,7 +819,7 @@ nav ul li a:hover {
   }
   /* ==== Hero Section ======= */
   .hero {
-    height: 32vh;
+    height: 40vh;
     object-fit: cover; /* Na manjim ekranima prilagodi sliku da bude u potpunosti vidljiva */
   }
   .hero h1 {
