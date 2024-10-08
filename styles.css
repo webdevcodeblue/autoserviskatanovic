@@ -801,8 +801,8 @@ nav ul li a:hover {
     text-decoration: none;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     transition: background-color 0.3s ease, box-shadow 0.3s ease;
-    width: 50px; /* Veličina gumba */
-    height: 50px; /* Veličina gumba */
+    width: 60px; /* Veličina gumba */
+    height: 60px; /* Veličina gumba */
     display: flex;
     align-items: center;
     justify-content: center;
